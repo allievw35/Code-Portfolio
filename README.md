@@ -8,8 +8,14 @@ LinkedIn: https://www.linkedin.com/in/alexandravanwagenen/
 
 ## Projects
 
-Scheduling ORIE Classes Using Integer Programming: 
+Scheduling ORIE Classes Using Integer Programming: https://github.com/allievw35/Code-Portfolio/blob/main/Scheduling%20ORIE%20Classes%20Using%20Integer%20Programming.pdf
 
 This project utilized linear programming techniques, Python (Pandas, NumPy, Gurobi), and GitHub to design and develop a solution for the optimal scheduling of classes in the Operations Research Department at Cornell University.
 
 January 2024 - May 2024
+
+Enhancing Ambulance Deployment in New York City:
+
+This project utilizes linear programming (MEXCLP), data extraction, data cleaning and Python (Pandas, NumPy, Gurobi, Matplotlib) to help enhance ambulances deployment in New York City so that 90% of emergency calls are reached by an ambulance in 9 minutes. 
+
+August 2023 - September 2023
