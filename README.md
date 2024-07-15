@@ -8,6 +8,8 @@ LinkedIn: https://www.linkedin.com/in/alexandravanwagenen/
 
 ## Projects
 
+Here are a few projects that I have chosen to feature on this portfolio.
+
 Scheduling ORIE Classes Using Integer Programming: https://github.com/allievw35/Code-Portfolio/blob/main/Scheduling%20ORIE%20Classes%20Using%20Integer%20Programming.pdf
 
 This project utilized linear programming techniques, Python (Pandas, NumPy, Gurobi), and GitHub to design and develop a solution for the optimal scheduling of classes in the Operations Research Department at Cornell University.
