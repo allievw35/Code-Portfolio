@@ -8,16 +8,9 @@ LinkedIn: https://www.linkedin.com/in/alexandravanwagenen/
 
 ## Projects
 
-Here are a few projects that I have chosen to feature on this portfolio.
+Addressing Gender Bias and Lack of Female Leadership in Corporate Settings:
+https://github.com/allievw35/Code-Portfolio/blob/main/Addressing%20Gender%20Bias%20and%20Lack%20of%20Female%20Leadership%20in%20Corporate%20Settings.pdf
 
-Scheduling ORIE Classes Using Integer Programming: https://github.com/allievw35/Code-Portfolio/blob/main/Scheduling%20ORIE%20Classes%20Using%20Integer%20Programming.pdf
+This report details a project completed as part of the course Simulation, Modeling, and Analysis at Cornell University during the Fall 2023 semester. The project exemplifies my proficiency in Python, stochastic processes, visualization techniques, and various other technical skills acquired throughout my academic journey.
 
-This project utilized linear programming techniques, Python (Pandas, NumPy, Gurobi), and GitHub to design and develop a solution for the optimal scheduling of classes in the Operations Research Department at Cornell University.
-
-January 2024 - May 2024
-
-Enhancing Ambulance Deployment in New York City:
-
-This project utilizes linear programming (MEXCLP), data extraction, data cleaning and Python (Pandas, NumPy, Gurobi, Matplotlib) to help enhance ambulances deployment in New York City so that 90% of emergency calls are reached by an ambulance in 9 minutes. 
-
-August 2023 - September 2023
+November 2023 - December 2023
