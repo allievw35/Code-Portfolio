@@ -14,3 +14,20 @@ https://github.com/allievw35/Code-Portfolio/blob/main/Addressing%20Gender%20Bias
 This report details a project completed as part of the course Simulation, Modeling, and Analysis at Cornell University during the Fall 2023 semester. The project exemplifies my proficiency in Python, stochastic processes, visualization techniques, and various other technical skills acquired throughout my academic journey.
 
 November 2023 - December 2023
+
+
+
+Navigating Agriculture in a Changing Climate:
+https://github.com/allievw35/Code-Portfolio/blob/main/Navigating%20Agriculture%20in%20a%20Changing%20Climate.pdf
+
+This is a project completed as part of the course Information Science at Cornell University during the Fall 2023 semester. This report allowed me to utilize data analytic techniques such as web scraping, data cleaning, linear and logistical regression, correlation heat maps, and goodness of fit tests to analyze and visualize our data and findings.
+
+October 2023 - December 2023
+
+
+Bike Sharing:
+https://github.com/allievw35/Code-Portfolio/blob/main/Bike%20Sharing.pdf
+
+This report documents a project completed as part of the Service System Modeling and Design course at Cornell University during the Fall 2023 semester. The project serves as a showcase of my skills in big data collection and cleaning, SQL, linear algebra, and various other technical proficiencies acquired throughout the course.
+
+September 2023 - October 2023
