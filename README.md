@@ -6,4 +6,10 @@ Resume: https://github.com/allievw35/Code-Portfolio/blob/main/Alexandra's%20Resu
 
 LinkedIn: https://www.linkedin.com/in/alexandravanwagenen/
 
-Please see some of my projects located in this repository and linked below.
+## Projects
+
+Scheduling ORIE Classes Using Integer Programming: 
+
+This project utilized linear programming techniques, Python (Pandas, NumPy, Gurobi), and GitHub to design and develop a solution for the optimal scheduling of classes in the Operations Research Department at Cornell University.
+
+January 2024 - May 2024
